@@ -24,7 +24,7 @@ void string_copy(){
     char destination[20] = "string_copyed";
     printf("before string  source- > %s \n ",source);
     strcpy(source,destination);
-    printf("after string  source -  > %s\n",destination);
+    printf("after string  source -  > %s\n",source);
 }
 void strcpy_vs_memcpy(){
     char source[5] = {'h','i','\0','g','o'};
