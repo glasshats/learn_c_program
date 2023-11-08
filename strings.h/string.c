@@ -183,12 +183,15 @@ int main(){
     printf("strxfrm: Transformed string: %s\n", str13);
 
     //9.how many function in string.h
-    //10.find the missing function ? and write the function with explain ?
+    
 }
 
 
 
 /*
+ANSWER::
+
+
 3. refer this link 
             https://stackoverflow.com/questions/4415910/memcpy-vs-memmove/77358065#77358065
 
