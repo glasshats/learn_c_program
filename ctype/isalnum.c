@@ -13,3 +13,4 @@ int main(){
     }
     
 }
+//The C library function int isalnum(int c) checks if the passed character is alphanumeric.
