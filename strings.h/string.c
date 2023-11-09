@@ -121,7 +121,7 @@ int main(){
     //strerror: Get string describing error code
     int a = 0;
     if(a==0){
-    printf("strerror: Error message for code 41 : %s\n", strerror(41));//  7.  how many error for strerroe()function ?
+    printf("strerror: Error message for code 41 : %s\n", strerror(41));//  7.  how many error for strerror()function ?
     }else{
         printf("error :: ");
     }
